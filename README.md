@@ -38,7 +38,7 @@ Original School Size Date vs New School Size Date:
 
 
 
-*How is the district and school summary affected? Overall, the disctrict and school data was not affected by new data. It is worth noting that there was some small change but that it is to insignificant to observe in the data. 
+*How is the district and school summary affected? The passing math percentage dropped 0.02%, the passing reading percentage dropped 0.03%, and the overall passing percentage dropped by 0.01%
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Although Thomas highschools overal passing average dropped its ranking among other schools did not change. 
 
