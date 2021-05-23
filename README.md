@@ -12,8 +12,7 @@ Original School Summary vs New School Summary:
 
 Original Overall Data vs New Overall Data:
 
-<img width="734" alt="Original Overal Data" src="https://user-images.githubusercontent.com/82424250/119279265-31624100-bbf0-11eb-84f3-bf4c396dc1eb.png">
-
+<img width="796" alt="Original Overal Data" src="https://user-images.githubusercontent.com/82424250/119279420-48edf980-bbf1-11eb-8224-8613ac8af1b6.png">
 
 <img width="950" alt="New Overall Data" src="https://user-images.githubusercontent.com/82424250/119278828-5acd9d80-bbed-11eb-8304-56e77b6e03c2.png">
 
