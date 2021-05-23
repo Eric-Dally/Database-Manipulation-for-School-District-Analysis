@@ -58,4 +58,4 @@ Original School Type vs New School Type Data:
 
 ## Summary
 
-After replacing the cheating results, the data showed some minor changes. First, Thomas Highschool's average reading and math scores dropped. Second, the overall scoring percentages for both math and reading dropped. Third, more weight was placed on Thomas high Schools 10th through 12th grade scores. On the other hand, metrics such as school spending, school size, and school type were not affected by the update. 
+After replacing the cheating results, the data showed some minor changes. First, Thomas Highschool's average reading and math scores dropped. Second, the overall scoring percentages for both math and reading dropped. Third, more weight was placed on Thomas high Schools 10th through 12th grade scores. And Fourth, the overall school averages for both math and reading dropped. On the other hand, metrics such as school spending, school size, and school type were not affected by the update. In summary, the new data should not significantly change boards thoughts on the school disctricts performance. 
