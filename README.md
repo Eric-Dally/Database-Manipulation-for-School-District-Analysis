@@ -38,16 +38,18 @@ Original School Size Date vs New School Size Date:
 
 
 
-*How is the district and school summary affected? The passing math percentage dropped 0.02%, the passing reading percentage dropped 0.03%, and the overall passing percentage dropped by 0.01%
+**How is the district and school summary affected?** The passing math percentage dropped 0.02%, the passing reading percentage dropped 0.03%, and the overall passing percentage dropped by 0.01%
 
-*How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Although Thomas highschools overal passing average dropped its ranking among other schools did not change. 
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** Although Thomas highschools overal passing average dropped its ranking among other schools did not change. 
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade: No 9th grade data was included for Thomas Highschool resulting in 9th grade scores. The other grade levels were not affected by this change.
-Scores by school spending: Was not affected
-Scores by school size: was not affected
-Scores by school type: was not affected
+**How does replacing the ninth-grade scores affect the following:**
+**Math and reading scores by grade:** No 9th grade data was included for Thomas Highschool resulting in 9th grade scores. The other grade levels were not affected by this change.
+**Scores by school spending:** Was not affected
+**Scores by school size:** was not affected
+**Scores by school type:** was not affected
 
 ## Summary
 
-After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the data was not largely affected. Although there was noticable changes in the Thomas Highschool reading and math scores, it was not signigicant enough to change the rest of the data.
+After replacing the cheating schools from Thomas High School, the data showed some minor changes. First, Thomas Highschool's average reading and math scores dropped. Second, the overall scoring percentages of all schools dropped by a small amount. 
+
+the data was not largely affected. Although there was noticable changes in the Thomas Highschool reading and math scores, it was not signigicant enough to change the rest of the data.
