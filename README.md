@@ -1,6 +1,6 @@
 # Overview
 
-After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, I updated the code so that the metrics disregard the erroneous scores.
+After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, I updated the results so that the cheating scores were not included. 
 
 ## Results
 
