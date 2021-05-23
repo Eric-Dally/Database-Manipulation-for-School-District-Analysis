@@ -18,9 +18,13 @@ Original Overall Data vs New Overall Data:
 
 Original Scores by Grade vs New Scores by Grade:
 
+Reading Scores:
+
 <img width="311" alt="Original Reading Scores by Grade" src="https://user-images.githubusercontent.com/82424250/119279010-a5034e80-bbee-11eb-859c-b9dc1e878b71.png">
 
 <img width="316" alt="New Reading Scores by Grade" src="https://user-images.githubusercontent.com/82424250/119279017-a9c80280-bbee-11eb-9273-69c8a9b1fe48.png">
+
+Math Scores:
 
 <img width="313" alt="Original Math Scores by Grade" src="https://user-images.githubusercontent.com/82424250/119279023-b2203d80-bbee-11eb-92cb-3772a707e92b.png">
 
