@@ -2,6 +2,7 @@
 
 After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, I updated the results so that the cheating scores were not included. 
 
+
 ## Results
 
 Original School Summary vs New School Summary:
@@ -35,6 +36,12 @@ Original School Size Date vs New School Size Date:
 <img width="760" alt="Original School Size Data" src="https://user-images.githubusercontent.com/82424250/119279080-f7446f80-bbee-11eb-99f6-f5a0b104d101.png">
 
 <img width="757" alt="New School Size Data" src="https://user-images.githubusercontent.com/82424250/119279087-fdd2e700-bbee-11eb-88eb-cdb226a4a3a5.png">
+
+Original School Type vs New School Type Data:
+
+<img width="730" alt="Original School Type Data" src="https://user-images.githubusercontent.com/82424250/119279724-2c52c100-bbf3-11eb-8af4-2967f019303d.png">
+
+<img width="727" alt="New School Type Data" src="https://user-images.githubusercontent.com/82424250/119279725-307ede80-bbf3-11eb-96b0-00b5dfb79416.png">
 
 
 
