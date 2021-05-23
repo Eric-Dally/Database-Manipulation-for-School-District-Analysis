@@ -1,4 +1,4 @@
-#Overview of the school district analysis:
+#Overview
 After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, we updated the code so that the metrics reflect accurate results. 
 
 ##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
@@ -7,7 +7,8 @@ After learning that 9th graders from Thomas Highschool cheated on their math and
 
 <img width="999" alt="New School Summary" src="https://user-images.githubusercontent.com/82424250/119278744-dbd86500-bbec-11eb-8a9d-19293584dbdb.png">
 
-<img width="928" alt="Original Overall Data" src="https://user-images.githubusercontent.com/82424250/119278825-56a18000-bbed-11eb-8b53-da54d8f83ab8.png">
+<img width="734" alt="Original Overal Data" src="https://user-images.githubusercontent.com/82424250/119279265-31624100-bbf0-11eb-84f3-bf4c396dc1eb.png">
+
 
 <img width="950" alt="New Overall Data" src="https://user-images.githubusercontent.com/82424250/119278828-5acd9d80-bbed-11eb-8304-56e77b6e03c2.png">
 
