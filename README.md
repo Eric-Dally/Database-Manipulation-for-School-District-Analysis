@@ -1,8 +1,8 @@
-#Overview
+# Overview
 
 After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, we updated the code so that the metrics reflect accurate results. 
 
-##Results
+## Results
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -39,6 +39,6 @@ Scores by school spending: Was not affected
 Scores by school size: was not affected
 Scores by school type: was not affected
 
-##Summary
+## Summary
 
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the data was not largely affected. Although there was noticable changes in the Thomas Highschool reading and math scores, it was not signigicant enough to change the rest of the data.
