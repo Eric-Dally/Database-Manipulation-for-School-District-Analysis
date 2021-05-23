@@ -51,13 +51,13 @@ Original School Type vs New School Type Data:
 
 **How does replacing the ninth-grade scores affect the following:**
 
-**Math and reading scores by grade:** No 9th grade data was included for Thomas Highschool resulting in 9th grade scores. The other grade levels were not affected by this change.
+Math and reading scores by grade: No 9th grade data was included for Thomas Highschool resulting in 9th grade scores. The other grade levels were not affected by this change.
 
-**Scores by school spending:** Was not affected
+Scores by school spending: Was not affected
 
-**Scores by school size:** was not affected
+Scores by school size: was not affected
 
-**Scores by school type:** was not affected
+Scores by school type: was not affected
 
 ## Summary
 
