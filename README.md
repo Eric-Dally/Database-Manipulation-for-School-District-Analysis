@@ -1,7 +1,10 @@
 #Overview
+
 After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, we updated the code so that the metrics reflect accurate results. 
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+##Results
+
+Using bulleted lists and images of DataFrames as support, address the following questions.
 
 <img width="1003" alt="Original School Summary" src="https://user-images.githubusercontent.com/82424250/119278740-d5e28400-bbec-11eb-9776-367383bc1c2a.png">
 
