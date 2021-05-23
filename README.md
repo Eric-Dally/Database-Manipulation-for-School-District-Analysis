@@ -1,6 +1,6 @@
 # Overview
 
-After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, I updated the results so that the cheating scores were not included. 
+After learning that 9th graders from Thomas Highschool cheated on their math and reading tests, I updated the results so that the cheating scores were not included in the data.
 
 
 ## Results
@@ -58,6 +58,4 @@ Original School Type vs New School Type Data:
 
 ## Summary
 
-After replacing the cheating schools from Thomas High School, the data showed some minor changes. First, Thomas Highschool's average reading and math scores dropped. Second, the overall scoring percentages of all schools dropped by a small amount. 
-
-the data was not largely affected. Although there was noticable changes in the Thomas Highschool reading and math scores, it was not signigicant enough to change the rest of the data.
+After replacing the cheating results, the data showed some minor changes. First, Thomas Highschool's average reading and math scores dropped. Second, the overall scoring percentages for both math and reading dropped. Third, more weight was placed on Thomas high Schools 10th through 11th grade scores. On the other hand, metrics such as school spending, school size, and school type were not affected by the update. 
