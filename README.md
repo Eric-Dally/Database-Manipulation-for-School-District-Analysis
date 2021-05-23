@@ -50,9 +50,13 @@ Original School Type vs New School Type Data:
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** Although Thomas highschools overal passing average dropped its ranking among other schools did not change. 
 
 **How does replacing the ninth-grade scores affect the following:**
+
 **Math and reading scores by grade:** No 9th grade data was included for Thomas Highschool resulting in 9th grade scores. The other grade levels were not affected by this change.
+
 **Scores by school spending:** Was not affected
+
 **Scores by school size:** was not affected
+
 **Scores by school type:** was not affected
 
 ## Summary
